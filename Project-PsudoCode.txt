@@ -1,0 +1,19 @@
+Psudo-Code
+***********
+A) Open Source File
+
+B) Start For Loop
+
+	1) fget through each line creating string
+	2) do clean up work on string with Ascii table (leaving spacce and numebr)
+	4) close file
+	5) open new file
+	6) write formatted string to new file (Working file)
+	7) close file
+	exit loop
+
+C) Open Working file
+	
+	1) create 2D array based on working file
+
+D) Manipulate 2D array into other data formats to be read by Analysis tools. 
